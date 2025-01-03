@@ -1,0 +1,367 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "408": [
+      61,
+      401,
+      869,
+      408
+    ],
+    "17896441": [
+      408,
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "03617074": [
+      955
+    ],
+    "0e384e19": [
+      976
+    ],
+    "14eb3368": [
+      869,
+      969
+    ],
+    "18c41134": [
+      262
+    ],
+    "1e4232ab": [
+      953
+    ],
+    "1f391b9e": [
+      408,
+      869,
+      61
+    ],
+    "393be207": [
+      134
+    ],
+    "533a09ca": [
+      98
+    ],
+    "5c868d36": [
+      974
+    ],
+    "5e95c892": [
+      647
+    ],
+    "822bd8ab": [
+      748
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      717
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "ba35e25f": [
+      152
+    ],
+    "c4f5d8e4": [
+      869,
+      634
+    ],
+    "dcfae275": [
+      338
+    ],
+    "dff1c289": [
+      724
+    ],
+    "e44a2883": [
+      736
+    ],
+    "f3dbcaf7": [
+      177
+    ],
+    "f55d3e7a": [
+      863
+    ],
+    "styles": [
+      48,
+      61,
+      354,
+      401,
+      408,
+      634,
+      792,
+      969,
+      869
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.4dd80a1b.js",
+          "hash": "0e6819d556f5fc86",
+          "publicPath": "/DocusaurusTest/assets/js/a94703ab.4dd80a1b.js"
+        }
+      ]
+    },
+    "61": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.b0500b99.js",
+          "hash": "e2999bff1739428c",
+          "publicPath": "/DocusaurusTest/assets/js/1f391b9e.b0500b99.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/533a09ca.7096000b.js",
+          "hash": "692f14f770302463",
+          "publicPath": "/DocusaurusTest/assets/js/533a09ca.7096000b.js"
+        }
+      ]
+    },
+    "134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.b757e280.js",
+          "hash": "0e6a27928fcbada2",
+          "publicPath": "/DocusaurusTest/assets/js/393be207.b757e280.js"
+        }
+      ]
+    },
+    "152": {
+      "js": [
+        {
+          "file": "assets/js/ba35e25f.096965b7.js",
+          "hash": "a620d25ca4cbe3b9",
+          "publicPath": "/DocusaurusTest/assets/js/ba35e25f.096965b7.js"
+        }
+      ]
+    },
+    "177": {
+      "js": [
+        {
+          "file": "assets/js/f3dbcaf7.c44bda65.js",
+          "hash": "8fdf7b0e330296a1",
+          "publicPath": "/DocusaurusTest/assets/js/f3dbcaf7.c44bda65.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.d27e4924.js",
+          "hash": "5a04d1818e3d9ac4",
+          "publicPath": "/DocusaurusTest/assets/js/a7456010.d27e4924.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.4c14c75f.js",
+          "hash": "b99e32dfeca45957",
+          "publicPath": "/DocusaurusTest/assets/js/237.4c14c75f.js"
+        }
+      ]
+    },
+    "262": {
+      "js": [
+        {
+          "file": "assets/js/18c41134.f3a565c5.js",
+          "hash": "fa17d052bacdfb63",
+          "publicPath": "/DocusaurusTest/assets/js/18c41134.f3a565c5.js"
+        }
+      ]
+    },
+    "338": {
+      "js": [
+        {
+          "file": "assets/js/dcfae275.b756c6d0.js",
+          "hash": "f253fd10f9b31a29",
+          "publicPath": "/DocusaurusTest/assets/js/dcfae275.b756c6d0.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.beaabf30.js",
+          "hash": "bc09fd0162203998",
+          "publicPath": "/DocusaurusTest/assets/js/runtime~main.beaabf30.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.edb40047.js",
+          "hash": "3f1903715a847087",
+          "publicPath": "/DocusaurusTest/assets/js/17896441.edb40047.js"
+        }
+      ]
+    },
+    "408": {
+      "js": [
+        {
+          "file": "assets/js/408.2967d90a.js",
+          "hash": "4be24562214ce760",
+          "publicPath": "/DocusaurusTest/assets/js/408.2967d90a.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.aa0da9fd.js",
+          "hash": "1d56733817b07d28",
+          "publicPath": "/DocusaurusTest/assets/js/c4f5d8e4.aa0da9fd.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.774f91d8.js",
+          "hash": "a24a516467a73550",
+          "publicPath": "/DocusaurusTest/assets/js/5e95c892.774f91d8.js"
+        }
+      ]
+    },
+    "717": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.c6d1f23a.js",
+          "hash": "248e35f5f485d030",
+          "publicPath": "/DocusaurusTest/assets/js/a7bd4aaa.c6d1f23a.js"
+        }
+      ]
+    },
+    "724": {
+      "js": [
+        {
+          "file": "assets/js/dff1c289.b9e4e08f.js",
+          "hash": "f65f0b21bad171b4",
+          "publicPath": "/DocusaurusTest/assets/js/dff1c289.b9e4e08f.js"
+        }
+      ]
+    },
+    "736": {
+      "js": [
+        {
+          "file": "assets/js/e44a2883.70a74c10.js",
+          "hash": "1e0acc8d309ef440",
+          "publicPath": "/DocusaurusTest/assets/js/e44a2883.70a74c10.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.bddde0da.js",
+          "hash": "2f8fbbec155c9c80",
+          "publicPath": "/DocusaurusTest/assets/js/aba21aa0.bddde0da.js"
+        }
+      ]
+    },
+    "748": {
+      "js": [
+        {
+          "file": "assets/js/822bd8ab.eb57b016.js",
+          "hash": "057962aaa9bff445",
+          "publicPath": "/DocusaurusTest/assets/js/822bd8ab.eb57b016.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.cf3dd685.js",
+          "hash": "cf69b6570af89cd4",
+          "publicPath": "/DocusaurusTest/assets/js/main.cf3dd685.js"
+        }
+      ]
+    },
+    "863": {
+      "js": [
+        {
+          "file": "assets/js/f55d3e7a.2f356aa0.js",
+          "hash": "961c6f8d3f78ba3b",
+          "publicPath": "/DocusaurusTest/assets/js/f55d3e7a.2f356aa0.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.2ce171b8.css",
+          "hash": "c599f6b0af9c6247",
+          "publicPath": "/DocusaurusTest/assets/css/styles.2ce171b8.css"
+        }
+      ]
+    },
+    "953": {
+      "js": [
+        {
+          "file": "assets/js/1e4232ab.8c89293e.js",
+          "hash": "1215a9414cfc59bd",
+          "publicPath": "/DocusaurusTest/assets/js/1e4232ab.8c89293e.js"
+        }
+      ]
+    },
+    "955": {
+      "js": [
+        {
+          "file": "assets/js/03617074.38d667bb.js",
+          "hash": "7975d519abfc22d0",
+          "publicPath": "/DocusaurusTest/assets/js/03617074.38d667bb.js"
+        }
+      ]
+    },
+    "969": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.0efafdba.js",
+          "hash": "aeadec28ee06aa3a",
+          "publicPath": "/DocusaurusTest/assets/js/14eb3368.0efafdba.js"
+        }
+      ]
+    },
+    "974": {
+      "js": [
+        {
+          "file": "assets/js/5c868d36.4d35110d.js",
+          "hash": "32353144ade9a04a",
+          "publicPath": "/DocusaurusTest/assets/js/5c868d36.4d35110d.js"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.2dc3b149.js",
+          "hash": "83427157685f9605",
+          "publicPath": "/DocusaurusTest/assets/js/0e384e19.2dc3b149.js"
+        }
+      ]
+    }
+  }
+}
