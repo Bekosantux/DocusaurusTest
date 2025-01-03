@@ -1,0 +1,120 @@
+{
+  "/DocusaurusTest/__docusaurus/debug-7e5": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-test-docusaurus-debugb-38-a9f"
+    }
+  },
+  "/DocusaurusTest/__docusaurus/debug/config-2c5": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-test-docusaurus-debugb-38-a9f"
+    }
+  },
+  "/DocusaurusTest/__docusaurus/debug/content-aba": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-test-docusaurus-debugb-38-a9f"
+    },
+    "__props": "__props---docusaurus-test-docusaurus-debug-content-26-b-094"
+  },
+  "/DocusaurusTest/__docusaurus/debug/globalData-d7f": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-test-docusaurus-debugb-38-a9f"
+    }
+  },
+  "/DocusaurusTest/__docusaurus/debug/metadata-ead": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-test-docusaurus-debugb-38-a9f"
+    }
+  },
+  "/DocusaurusTest/__docusaurus/debug/registry-baa": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-test-docusaurus-debugb-38-a9f"
+    }
+  },
+  "/DocusaurusTest/__docusaurus/debug/routes-d6d": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-test-docusaurus-debugb-38-a9f"
+    }
+  },
+  "/DocusaurusTest/markdown-page-5dd": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---docusaurus-test-markdown-pagea-74-f2e"
+    },
+    "content": "content---docusaurus-test-markdown-page-393-67c"
+  },
+  "/DocusaurusTest/docs-ba0": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docusaurus-test-docsaba-3d4"
+    }
+  },
+  "/DocusaurusTest/docs-6da": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docusaurus-test-docsf-3-d-c23"
+  },
+  "/DocusaurusTest/docs-c8f": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/DocusaurusTest/docs/category/tutorial---basics-c4d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docusaurus-test-docs-category-tutorial-basics-036-1ec"
+  },
+  "/DocusaurusTest/docs/category/tutorial---extras-e7e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docusaurus-test-docs-category-tutorial-extrasdcf-e7f"
+  },
+  "/DocusaurusTest/docs/fizzbuzz-806": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-test-docs-fizzbuzzba-3-f7f"
+  },
+  "/DocusaurusTest/docs/intro-749": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-test-docs-intro-0-e-3-fa4"
+  },
+  "/DocusaurusTest/docs/tutorial-basics/congratulations-4a1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-test-docs-tutorial-basics-congratulations-822-1c6"
+  },
+  "/DocusaurusTest/docs/tutorial-basics/create-a-blog-post-1f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-test-docs-tutorial-basics-create-a-blog-post-533-a28"
+  },
+  "/DocusaurusTest/docs/tutorial-basics/create-a-document-2b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-test-docs-tutorial-basics-create-a-document-1-e-4-90e"
+  },
+  "/DocusaurusTest/docs/tutorial-basics/create-a-page-30a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-test-docs-tutorial-basics-create-a-page-5-c-8-e87"
+  },
+  "/DocusaurusTest/docs/tutorial-basics/deploy-your-site-f0e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-test-docs-tutorial-basics-deploy-your-sitef-55-a8e"
+  },
+  "/DocusaurusTest/docs/tutorial-basics/markdown-features-b31": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-test-docs-tutorial-basics-markdown-features-18-c-537"
+  },
+  "/DocusaurusTest/docs/tutorial-extras/manage-docs-versions-4cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-test-docs-tutorial-extras-manage-docs-versionsdff-943"
+  },
+  "/DocusaurusTest/docs/tutorial-extras/translate-your-site-a9e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-test-docs-tutorial-extras-translate-your-sitee-44-515"
+  },
+  "/DocusaurusTest/-08e": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---docusaurus-test-markdown-pagea-74-f2e"
+    },
+    "config": "config---docusaurus-test-5-e-9-379"
+  }
+}
